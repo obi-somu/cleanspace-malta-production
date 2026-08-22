@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">CleanSpace Malta</title><desc id="desc">CleanSpace Malta house and sparkle logo</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0aa6ad"/><stop offset="1" stop-color="#07365f"/></linearGradient></defs>
+<circle cx="256" cy="256" r="238" fill="#fff" stroke="url(#g)" stroke-width="18"/>
+<path d="M128 248 256 146l128 102" fill="none" stroke="#052543" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M162 246v111h188V246" fill="none" stroke="#052543" stroke-width="28" stroke-linejoin="round"/>
+<rect x="222" y="230" width="68" height="68" rx="8" fill="#e7f6f7" stroke="#07939b" stroke-width="10"/>
+<path d="M256 230v68M222 264h68" stroke="#07939b" stroke-width="8"/>
+<path d="M356 169l13 32 32 13-32 13-13 32-13-32-32-13 32-13z" fill="#0aa6ad"/>
+<path d="M105 369c86-46 169-30 247 9 28 14 52 17 74 9-36 42-91 55-148 31-68-29-119-49-173-49z" fill="url(#g)" opacity=".96"/>
+</svg>
