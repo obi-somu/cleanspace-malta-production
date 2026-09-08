@@ -10,3 +10,7 @@ Concise, mobile-first website for CleanSpace Malta.
 
 ## Deployment
 Static site configured for Netlify. No build command is required. Publish directory: `.`
+
+## Contact
+- Phone / WhatsApp: +356 9908 4684
+- Email: aurumaris.isc@gmail.com
