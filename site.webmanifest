@@ -1,12 +1,1 @@
-{
-  "name": "CleanSpace Malta",
-  "short_name": "CleanSpace",
-  "description": "Reliable cleaning support in Malta.",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#052f57",
-  "icons": [
-    {"src":"assets/cleanspace-logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
-  ]
-}
+{"name":"CleanSpace Malta","short_name":"CleanSpace","description":"Simple, reliable cleaning in Malta.","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#0b2947","icons":[{"src":"assets/logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
